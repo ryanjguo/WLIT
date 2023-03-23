@@ -3,7 +3,9 @@
 <h5>What is WLIT?</h5>
 <p>WLIT is a beginner hackathon project created to detect what language a given input is written in, using artificial intelligence. 
 The languages that it can currently detect are English, French, Spanish, Portuguese, Italian, German, Swedish, Danish, Dutch, Russian, and Greek. 
-The languages it can currently detect are limited by the dataset we used, as well as the modules we implemented. </p>
+The languages it can currently detect are limited by the dataset we used, as well as the modules we implemented. </p> 
+
+A video demo of the product can be seen [here](https://youtu.be/KSlAkXiAuDY)
 
 <h5>Dataset</h5>
 <p>The <a href = https://www.kaggle.com/datasets/basilb2s/language-detection>dataset</a> that we chose for this project is the language detection dataset by Basil Saji from Kaggle. According to Basil he "Collected the data from Wikipedia by scraping using BeautifulSoup python library".</p>
