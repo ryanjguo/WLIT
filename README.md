@@ -1,6 +1,6 @@
 # WLIT - What Language Is This?
 <h5>Authors:</h5>
-<b>Ethan Huynh, Sahitya Nulu, Ryan Guo, Roshan Dewmima</b>
+<b>Ethan Huynh, Sahitya Nulu, Ryan Guo, Roshan Dewmima </b>
 <h5>What is WLIT?</h5>
 <p>WLIT is a beginner hackathon project created to detect what language a given input is written in, using artificial intelligence. 
 The languages that it can currently detect are English, French, Spanish, Portuguese, Italian, German, Swedish, Danish, Dutch, Russian, and Greek. 
